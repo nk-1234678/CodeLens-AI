@@ -1,5 +1,9 @@
 # CodeLens AI 🔍
 
+## 🌐 Live Demo
+
+🚀 **Try CodeLens AI:** [Open Live Application]([YOUR_STREAMLIT_APP_URL](https://codelens-review.streamlit.app))
+
 **AI-Powered Code Review & Explanation Assistant**
 
 CodeLens AI is an intelligent code analysis application powered by Google's Gemini API. It helps developers identify potential code issues, improve code quality, and understand unfamiliar programs through AI-generated explanations.
