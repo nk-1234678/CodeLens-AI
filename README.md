@@ -2,7 +2,7 @@
 
 ## 🌐 Live Demo
 
-🚀 **Try CodeLens AI:** (https://codelens-review.streamlit.app)
+🚀 **Try CodeLens AI:** [Try Here](https://codelens-review.streamlit.app) 
 
 **AI-Powered Code Review & Explanation Assistant**
 
